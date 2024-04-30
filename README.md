@@ -42,4 +42,6 @@ The goal of this project is to use MLP model to determine what thinking skills s
 
 ### 5 Result
 
+<img width="292" alt="result" src="https://github.com/n-tan-adonis/Assess_thinking_skills/assets/127659484/3671e470-8f88-4248-9209-d7bda72d93e0">
+
 
